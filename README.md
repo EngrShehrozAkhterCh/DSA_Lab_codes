@@ -1,5 +1,10 @@
 # 🧮 DSA Lab Repository
 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/EngrShehrozAkhterCh/DSA_Lab_codes)
+![GitHub repo size](https://img.shields.io/github/repo-size/EngrShehrozAkhterCh/DSA_Lab_codes)
+
+
 This repository contains my **Data Structures and Algorithms (DSA)** lab assignments and practice codes.  
 Each lab focuses on a specific topic and is implemented in **C++**.
 
