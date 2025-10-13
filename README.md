@@ -37,6 +37,12 @@ Each lab focuses on a specific topic and is implemented in **C++**.
 Department of Electrical Engineering  
 **University of Engineering and Technology (UET), Lahore)**
 
+📧 [Email Me](mailto:2024ee264@uet.edu.pk)
+
+---
+
+⭐ **If you found this repository helpful, please give it a star!**
+
 ---
 
 ## 🌟 How to Run
