@@ -1,0 +1,10 @@
+int n;
+    float a, r;
+    cout << ("Enter no of terms:");
+    cin >> n;
+    cout << ("Enter first term:");
+    cin >> a;
+    cout << ("Enter common ratio:");
+    cin >> r;
+    double result = GM_sum(a, r, n);
+    cout << "sum is " << result << endl;
